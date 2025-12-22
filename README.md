@@ -22,7 +22,7 @@ The goal of this project is to transform raw accident data into **interactive an
 - **Source:** Public GitHub repository  
   https://github.com/harshitgahlaut/Project_Road_Accident_Dashboard_Excel  
 - **Time Period:** 2021–2022  
-- **Records:** ~308,000 accident records  
+- **Records:** ~307974 accident records  
 - **Columns:** 21 attributes including severity, casualties, vehicle type, weather, road surface, time, and location  
 
 ---
